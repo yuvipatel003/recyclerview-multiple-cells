@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">RecyclerView</string>
+  <string name="no_emails">No Emails</string>
+  <string name="no_phones">No Phones</string>
+  <string name="with_emails_and_phones">With Emails and Phones</string>
+</resources>

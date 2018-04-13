@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UI for ContactHolder -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+  <TextView
+      android:id="@+id/firstAndLastName"
+      android:textSize="20sp"
+      android:textStyle="bold"
+      android:textColor="#000000"
+      android:maxLines="2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"/>
+  <TextView
+      android:id="@+id/email"
+      android:textColor="#999999"
+      android:textSize="16sp"
+      android:maxLines="1"
+      android:layout_marginTop="8dp"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"/>
+  <TextView
+      android:id="@+id/phone"
+      android:textColor="#999999"
+      android:textSize="16sp"
+      android:maxLines="1"
+      android:layout_marginTop="8dp"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"/>
+  <View
+      android:background="#eeeeee"
+      android:layout_marginTop="8dp"
+      android:layout_marginBottom="8dp"
+      android:layout_width="match_parent"
+      android:layout_height="1dp"/>
+</LinearLayout>

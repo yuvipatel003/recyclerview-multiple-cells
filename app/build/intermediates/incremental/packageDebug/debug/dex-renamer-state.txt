@@ -1,0 +1,4 @@
+#Tue Apr 03 18:19:51 EDT 2018
+base.0=C\:\\Users\\yuvi0\\Desktop\\recyclerview-multiple-cells\\recyclerview-multiple-cells\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
